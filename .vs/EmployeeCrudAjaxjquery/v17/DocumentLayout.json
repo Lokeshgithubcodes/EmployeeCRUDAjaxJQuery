@@ -1,0 +1,271 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeeCrudAjaxjquery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D064547-66C2-43BF-B53E-2373368B26D1}|EmployeeCrudAjaxjquery\\EmployeeCrudAjaxjquery.csproj|c:\\users\\ramisettylokesh\\source\\repos\\employeecrudajaxjquery\\employeecrudajaxjquery\\controllers\\ajax\\ajaxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D064547-66C2-43BF-B53E-2373368B26D1}|EmployeeCrudAjaxjquery\\EmployeeCrudAjaxjquery.csproj|solutionrelative:employeecrudajaxjquery\\controllers\\ajax\\ajaxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C097E39E-0FD9-41F2-9003-192D24780E9B}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\ramisettylokesh\\source\\repos\\employeecrudajaxjquery\\repositorylayer\\services\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C097E39E-0FD9-41F2-9003-192D24780E9B}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\services\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D064547-66C2-43BF-B53E-2373368B26D1}|EmployeeCrudAjaxjquery\\EmployeeCrudAjaxjquery.csproj|c:\\users\\ramisettylokesh\\source\\repos\\employeecrudajaxjquery\\employeecrudajaxjquery\\views\\ajax\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D064547-66C2-43BF-B53E-2373368B26D1}|EmployeeCrudAjaxjquery\\EmployeeCrudAjaxjquery.csproj|solutionrelative:employeecrudajaxjquery\\views\\ajax\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D064547-66C2-43BF-B53E-2373368B26D1}|EmployeeCrudAjaxjquery\\EmployeeCrudAjaxjquery.csproj|c:\\users\\ramisettylokesh\\source\\repos\\employeecrudajaxjquery\\employeecrudajaxjquery\\wwwroot\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0D064547-66C2-43BF-B53E-2373368B26D1}|EmployeeCrudAjaxjquery\\EmployeeCrudAjaxjquery.csproj|solutionrelative:employeecrudajaxjquery\\wwwroot\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08A2F1B-09DD-4B5B-8F3D-66E97EAC4832}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\ramisettylokesh\\source\\repos\\employeecrudajaxjquery\\businesslayer\\services\\employeebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08A2F1B-09DD-4B5B-8F3D-66E97EAC4832}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\employeebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08A2F1B-09DD-4B5B-8F3D-66E97EAC4832}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\ramisettylokesh\\source\\repos\\employeecrudajaxjquery\\businesslayer\\interfaces\\iemployeebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08A2F1B-09DD-4B5B-8F3D-66E97EAC4832}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\interfaces\\iemployeebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C097E39E-0FD9-41F2-9003-192D24780E9B}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\ramisettylokesh\\source\\repos\\employeecrudajaxjquery\\repositorylayer\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C097E39E-0FD9-41F2-9003-192D24780E9B}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D064547-66C2-43BF-B53E-2373368B26D1}|EmployeeCrudAjaxjquery\\EmployeeCrudAjaxjquery.csproj|c:\\users\\ramisettylokesh\\source\\repos\\employeecrudajaxjquery\\employeecrudajaxjquery\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D064547-66C2-43BF-B53E-2373368B26D1}|EmployeeCrudAjaxjquery\\EmployeeCrudAjaxjquery.csproj|solutionrelative:employeecrudajaxjquery\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D064547-66C2-43BF-B53E-2373368B26D1}|EmployeeCrudAjaxjquery\\EmployeeCrudAjaxjquery.csproj|c:\\users\\ramisettylokesh\\source\\repos\\employeecrudajaxjquery\\employeecrudajaxjquery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D064547-66C2-43BF-B53E-2373368B26D1}|EmployeeCrudAjaxjquery\\EmployeeCrudAjaxjquery.csproj|solutionrelative:employeecrudajaxjquery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D064547-66C2-43BF-B53E-2373368B26D1}|EmployeeCrudAjaxjquery\\EmployeeCrudAjaxjquery.csproj|c:\\users\\ramisettylokesh\\source\\repos\\employeecrudajaxjquery\\employeecrudajaxjquery\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D064547-66C2-43BF-B53E-2373368B26D1}|EmployeeCrudAjaxjquery\\EmployeeCrudAjaxjquery.csproj|solutionrelative:employeecrudajaxjquery\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C097E39E-0FD9-41F2-9003-192D24780E9B}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\ramisettylokesh\\source\\repos\\employeecrudajaxjquery\\repositorylayer\\migrations\\20240403115645_useremp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C097E39E-0FD9-41F2-9003-192D24780E9B}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\migrations\\20240403115645_useremp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C097E39E-0FD9-41F2-9003-192D24780E9B}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\ramisettylokesh\\source\\repos\\employeecrudajaxjquery\\repositorylayer\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C097E39E-0FD9-41F2-9003-192D24780E9B}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C097E39E-0FD9-41F2-9003-192D24780E9B}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\ramisettylokesh\\source\\repos\\employeecrudajaxjquery\\repositorylayer\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C097E39E-0FD9-41F2-9003-192D24780E9B}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C097E39E-0FD9-41F2-9003-192D24780E9B}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\ramisettylokesh\\source\\repos\\employeecrudajaxjquery\\repositorylayer\\repositorylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C097E39E-0FD9-41F2-9003-192D24780E9B}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\repositorylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08A2F1B-09DD-4B5B-8F3D-66E97EAC4832}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\ramisettylokesh\\source\\repos\\employeecrudajaxjquery\\businesslayer\\businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D08A2F1B-09DD-4B5B-8F3D-66E97EAC4832}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "custom.js",
+              "DocumentMoniker": "C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeeCrudAjaxjquery\\EmployeeCrudAjaxjquery\\wwwroot\\js\\custom.js",
+              "RelativeDocumentMoniker": "EmployeeCrudAjaxjquery\\wwwroot\\js\\custom.js",
+              "ToolTip": "C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeeCrudAjaxjquery\\EmployeeCrudAjaxjquery\\wwwroot\\js\\custom.js",
+              "RelativeToolTip": "EmployeeCrudAjaxjquery\\wwwroot\\js\\custom.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-03T13:35:36.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AjaxController.cs",
+              "DocumentMoniker": "C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeeCrudAjaxjquery\\EmployeeCrudAjaxjquery\\Controllers\\Ajax\\AjaxController.cs",
+              "RelativeDocumentMoniker": "EmployeeCrudAjaxjquery\\Controllers\\Ajax\\AjaxController.cs",
+              "ToolTip": "C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeeCrudAjaxjquery\\EmployeeCrudAjaxjquery\\Controllers\\Ajax\\AjaxController.cs",
+              "RelativeToolTip": "EmployeeCrudAjaxjquery\\Controllers\\Ajax\\AjaxController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T12:32:35.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmployeeBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeeCrudAjaxjquery\\BusinessLayer\\Interfaces\\IEmployeeBusiness.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Interfaces\\IEmployeeBusiness.cs",
+              "ToolTip": "C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeeCrudAjaxjquery\\BusinessLayer\\Interfaces\\IEmployeeBusiness.cs",
+              "RelativeToolTip": "BusinessLayer\\Interfaces\\IEmployeeBusiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T12:01:43.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeeCrudAjaxjquery\\BusinessLayer\\Services\\EmployeeBusiness.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\EmployeeBusiness.cs",
+              "ToolTip": "C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeeCrudAjaxjquery\\BusinessLayer\\Services\\EmployeeBusiness.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\EmployeeBusiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T12:01:25.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeeCrudAjaxjquery\\RepositoryLayer\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeeCrudAjaxjquery\\RepositoryLayer\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "RepositoryLayer\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T12:01:00.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeeCrudAjaxjquery\\RepositoryLayer\\Services\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Services\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeeCrudAjaxjquery\\RepositoryLayer\\Services\\EmployeeRepository.cs",
+              "RelativeToolTip": "RepositoryLayer\\Services\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T12:00:15.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240403115645_UserEmp.cs",
+              "DocumentMoniker": "C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeeCrudAjaxjquery\\RepositoryLayer\\Migrations\\20240403115645_UserEmp.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Migrations\\20240403115645_UserEmp.cs",
+              "ToolTip": "C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeeCrudAjaxjquery\\RepositoryLayer\\Migrations\\20240403115645_UserEmp.cs",
+              "RelativeToolTip": "RepositoryLayer\\Migrations\\20240403115645_UserEmp.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T11:56:45.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BusinessLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeeCrudAjaxjquery\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeDocumentMoniker": "BusinessLayer\\BusinessLayer.csproj",
+              "ToolTip": "C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeeCrudAjaxjquery\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeToolTip": "BusinessLayer\\BusinessLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-03T11:45:24.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RepositoryLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeeCrudAjaxjquery\\RepositoryLayer\\RepositoryLayer.csproj",
+              "RelativeDocumentMoniker": "RepositoryLayer\\RepositoryLayer.csproj",
+              "ToolTip": "C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeeCrudAjaxjquery\\RepositoryLayer\\RepositoryLayer.csproj",
+              "RelativeToolTip": "RepositoryLayer\\RepositoryLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-03T11:44:54.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeeCrudAjaxjquery\\EmployeeCrudAjaxjquery\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeCrudAjaxjquery\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeeCrudAjaxjquery\\EmployeeCrudAjaxjquery\\appsettings.json",
+              "RelativeToolTip": "EmployeeCrudAjaxjquery\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-03T11:34:45.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeeCrudAjaxjquery\\EmployeeCrudAjaxjquery\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeCrudAjaxjquery\\Program.cs",
+              "ToolTip": "C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeeCrudAjaxjquery\\EmployeeCrudAjaxjquery\\Program.cs",
+              "RelativeToolTip": "EmployeeCrudAjaxjquery\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T11:34:43.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeeCrudAjaxjquery\\EmployeeCrudAjaxjquery\\Startup.cs",
+              "RelativeDocumentMoniker": "EmployeeCrudAjaxjquery\\Startup.cs",
+              "ToolTip": "C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeeCrudAjaxjquery\\EmployeeCrudAjaxjquery\\Startup.cs",
+              "RelativeToolTip": "EmployeeCrudAjaxjquery\\Startup.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAcwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T11:34:40.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeeCrudAjaxjquery\\RepositoryLayer\\Context.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Context.cs",
+              "ToolTip": "C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeeCrudAjaxjquery\\RepositoryLayer\\Context.cs",
+              "RelativeToolTip": "RepositoryLayer\\Context.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T11:30:13.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeeCrudAjaxjquery\\RepositoryLayer\\Entity\\Employee.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Entity\\Employee.cs",
+              "ToolTip": "C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeeCrudAjaxjquery\\RepositoryLayer\\Entity\\Employee.cs",
+              "RelativeToolTip": "RepositoryLayer\\Entity\\Employee.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowBQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T11:24:28.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeeCrudAjaxjquery\\EmployeeCrudAjaxjquery\\Views\\Ajax\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeCrudAjaxjquery\\Views\\Ajax\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeeCrudAjaxjquery\\EmployeeCrudAjaxjquery\\Views\\Ajax\\Index.cshtml",
+              "RelativeToolTip": "EmployeeCrudAjaxjquery\\Views\\Ajax\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T13:23:46.16Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

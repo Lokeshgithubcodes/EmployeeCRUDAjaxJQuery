@@ -1,0 +1,16 @@
+C:\Users\Ramisettylokesh\source\repos\EmployeeCrudAjaxjquery\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.deps.json
+C:\Users\Ramisettylokesh\source\repos\EmployeeCrudAjaxjquery\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.runtimeconfig.json
+C:\Users\Ramisettylokesh\source\repos\EmployeeCrudAjaxjquery\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.runtimeconfig.dev.json
+C:\Users\Ramisettylokesh\source\repos\EmployeeCrudAjaxjquery\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\Ramisettylokesh\source\repos\EmployeeCrudAjaxjquery\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\Ramisettylokesh\source\repos\EmployeeCrudAjaxjquery\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.AssemblyReference.cache
+C:\Users\Ramisettylokesh\source\repos\EmployeeCrudAjaxjquery\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramisettylokesh\source\repos\EmployeeCrudAjaxjquery\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\Ramisettylokesh\source\repos\EmployeeCrudAjaxjquery\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfo.cs
+C:\Users\Ramisettylokesh\source\repos\EmployeeCrudAjaxjquery\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ramisettylokesh\source\repos\EmployeeCrudAjaxjquery\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\Ramisettylokesh\source\repos\EmployeeCrudAjaxjquery\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\Ramisettylokesh\source\repos\EmployeeCrudAjaxjquery\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.genruntimeconfig.cache
+C:\Users\Ramisettylokesh\source\repos\EmployeeCrudAjaxjquery\RepositoryLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\Ramisettylokesh\source\repos\EmployeeCrudAjaxjquery\RepositoryLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Users\Ramisettylokesh\source\repos\EmployeeCrudAjaxjquery\RepositoryLayer\obj\Debug\netcoreapp3.1\Reposito.A0A61804.Up2Date
